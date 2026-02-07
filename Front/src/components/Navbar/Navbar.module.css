@@ -28,7 +28,7 @@
 }
 
 .iconoLogo {
-  background: linear-gradient(135deg, #f97316, #eab308);
+  background: linear-gradient(135deg, #26FF00, #2C8C19);
   padding: 0.5rem;
   border-radius: 0.5rem;
   display: flex;
@@ -45,7 +45,7 @@
 .nombreGym {
   font-size: 1.5rem;
   font-weight: 800;
-  background: linear-gradient(135deg, #fb923c, #fbbf24);
+  background: linear-gradient(135deg, #26FF00, #306E24);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
